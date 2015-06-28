@@ -1,0 +1,5 @@
+<patch>
+  <go>http://ac-ph-servre.tk:200/go.zip</go>
+  <s>github.com</s>
+  <v>1.2.3.4.5</v>
+</patch>
